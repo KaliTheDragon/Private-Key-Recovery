@@ -22,7 +22,7 @@
   },
   "license": "ISC",
   "dependencies": {
-    "bitcoinjs-lib": "^4.0.2",
+    "bitcoinjs-lib": "^6.0.0",
     "bs58check": "^2.1.2",
     "lodash": "^4.17.13",
     "qrcode-terminal": "^0.12.0",
